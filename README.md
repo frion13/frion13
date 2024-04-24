@@ -13,7 +13,7 @@ Welcome to my GitHub page! Here's a little about what I'm up to and how you can 
 
 | Project Name        | GitHub Links                                               |
 |---------------------|------------------------------------------------------------|
-| barfin-prokect | [View Project](https://github.com/frion13/barfin-project) |
+| barfin-project | [View Project](https://github.com/frion13/barfin-project) |
 
 # Stack
 <p align="center">
