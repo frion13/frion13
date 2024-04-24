@@ -15,7 +15,7 @@ Welcome to my GitHub page! Here's a little about what I'm up to and how you can 
 |---------------------|------------------------------------------------------------|
 | barfin-prokect | [View Project](https://github.com/frion13/barfin-project) |
 
-#Stack
+# Stack
 <p align="center">
   <a href="https://www.jetbrains.com/idea/">
     <img src="idea.svg" width="50" height="50"/>
