@@ -18,7 +18,7 @@ Welcome to my GitHub page! Here's a little about what I'm up to and how you can 
 #Stack
 <p align="center">
   <a href="https://www.jetbrains.com/idea/">
-    <img src="img/logo/idea.svg" width="50" height="50" alt="IntelliJ IDEA"/>
+    <img src="img/logo/idea.svg" width="50" height="50"/>
   </a>
   <a href="https://www.oracle.com/java/">
     <img src="img/logo/java.svg" width="50" height="50" alt="Java"/>
